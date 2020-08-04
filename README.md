@@ -1,16 +1,12 @@
 # makingsentences
 
-A new Flutter application.
+This application is designed for kids to help them with building simple sentences. Your children will learn how to identify sentence parts like the subject, the verb or the object. Also they will be able to make their own sentences from the given parts. Colorful pictures will make this process a fun game.
 
-## Getting Started
+There are two types of challenges in this application:
 
-This project is a starting point for a Flutter application.
+• In the first type challenge your kid will have to identify a certain sentence part.
+• The second type challenge is a sentence constructor where your child will be able to build his/her own sentences from the given parts.
 
-A few resources to get you started if this is your first Flutter project:
+Your kids do not have to be able to read. Everything is voiced.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This application is available in two languages: English and Russian. There is an option to switch the language right in the application.
