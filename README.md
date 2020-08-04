@@ -5,6 +5,7 @@ This application is designed for kids to help them with building simple sentence
 There are two types of challenges in this application:
 
 • In the first type challenge your kid will have to identify a certain sentence part.
+
 • The second type challenge is a sentence constructor where your child will be able to build his/her own sentences from the given parts.
 
 Your kids do not have to be able to read. Everything is voiced.
