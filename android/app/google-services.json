@@ -1,0 +1,191 @@
+{
+  "project_info": {
+    "project_number": "860930629251",
+    "firebase_url": "https://kids-development.firebaseio.com",
+    "project_id": "kids-development",
+    "storage_bucket": "kids-development.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860930629251:android:d018b38dd115d8776845b6",
+        "android_client_info": {
+          "package_name": "com.olgam.cashbackcalendar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "860930629251-pm0ggrvkp9juaagkjloi0os324glrm4a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq9u1guGsF7o4141BQz0m3E3MyejLMOhg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "860930629251-pm0ggrvkp9juaagkjloi0os324glrm4a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "860930629251-9o76igcu9521hi5qup73cql42u4g19r4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.olgam.kidsdevelopment"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860930629251:android:b3378ef75b23b93b6845b6",
+        "android_client_info": {
+          "package_name": "com.olgam.kids_development"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "860930629251-pm0ggrvkp9juaagkjloi0os324glrm4a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq9u1guGsF7o4141BQz0m3E3MyejLMOhg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "860930629251-pm0ggrvkp9juaagkjloi0os324glrm4a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "860930629251-9o76igcu9521hi5qup73cql42u4g19r4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.olgam.kidsdevelopment"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860930629251:android:a4b6b33a1e8bb9676845b6",
+        "android_client_info": {
+          "package_name": "com.olgam.makingsentences"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "860930629251-pm0ggrvkp9juaagkjloi0os324glrm4a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq9u1guGsF7o4141BQz0m3E3MyejLMOhg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "860930629251-pm0ggrvkp9juaagkjloi0os324glrm4a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "860930629251-9o76igcu9521hi5qup73cql42u4g19r4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.olgam.kidsdevelopment"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860930629251:android:73335324078fe7446845b6",
+        "android_client_info": {
+          "package_name": "com.olgam.prepositionsforkids"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "860930629251-pm0ggrvkp9juaagkjloi0os324glrm4a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq9u1guGsF7o4141BQz0m3E3MyejLMOhg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "860930629251-pm0ggrvkp9juaagkjloi0os324glrm4a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "860930629251-9o76igcu9521hi5qup73cql42u4g19r4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.olgam.kidsdevelopment"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860930629251:android:7c196743f09f594d6845b6",
+        "android_client_info": {
+          "package_name": "com.olgam.whquestionsforkids"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "860930629251-pm0ggrvkp9juaagkjloi0os324glrm4a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq9u1guGsF7o4141BQz0m3E3MyejLMOhg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "860930629251-pm0ggrvkp9juaagkjloi0os324glrm4a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "860930629251-9o76igcu9521hi5qup73cql42u4g19r4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.olgam.kidsdevelopment"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
